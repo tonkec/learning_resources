@@ -37,8 +37,10 @@
 * [Syntax](https://daringfireball.net/projects/markdown/)
 
 ### Git
+* [Cheat Sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 * [How to write a good commit messages](https://chris.beams.io/posts/git-commit/)
 * [Undo last commit, keep changes](https://stackoverflow.com/questions/927358/how-do-i-undo-the-most-recent-commits-in-git)
+* [Bitbucket](https://bitbucket.org)
 
 ### UX/UI
 * [Color palettes](https://coolors.co/)
@@ -91,3 +93,8 @@
 ### Fun
 * [CSS puns](https://saijogeorge.com/css-puns/)
 * [Every website in 2018](https://codepen.io/cobra_winfrey/full/MPqvwg/)
+* [Spooning by Bitbucket](https://www.youtube.com/watch?v=dYBjVTMUQY0)
+* [The Mysterious Life of Developers](https://www.youtube.com/watch?v=ocwnns57cYQ)
+* [Copying and Pasting from Stack Overflow](https://www.goodreads.com/book/show/29437996-copying-and-pasting-from-stack-overflow)
+* [While loop](https://img.devrant.com/devrant/rant/r_336375_CA5gj.jpg)
+* [If/else statements](https://i.pinimg.com/originals/4f/80/db/4f80dbdfddc683e839b196f5b3ead5ad.jpg)
