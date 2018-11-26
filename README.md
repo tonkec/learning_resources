@@ -175,4 +175,4 @@ A list of articles and tutorials that I share with my students.
 * [While loop](https://img.devrant.com/devrant/rant/r_336375_CA5gj.jpg)
 * [If/else statements](https://i.pinimg.com/originals/4f/80/db/4f80dbdfddc683e839b196f5b3ead5ad.jpg)
 
-###### Don't be shy, spread the word and start this project
+###### Don't be shy, spread the word and star this project
