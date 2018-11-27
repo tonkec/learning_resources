@@ -10,15 +10,15 @@ A list of articles and tutorials that I share with my students.
 
 ### CSS
 * [CSS Codrops reference](https://tympanus.net/codrops/css_reference/)
-  * In detail explanation of every single property with examples
+  * In detail explanation of every CSS property with examples
 * [Smelly CSS](https://csswizardry.com/2012/11/code-smells-in-css/)
   * Donts of CSS
-* [OOP with CSS](https://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/)
+* [Object-oriented CSS](https://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/)
   * Content agnosticism, object orientation with CSS
 * [CSS lint](http://csslint.net/)
-  * Is your CSS smelly?
+  * Check your CSS
 * [CSS tricks](https://css-tricks.com/)
-  * Plenty of resources about every problem you might have encountered
+  * A site about all things web design and development
 * [Learn layout](http://learnlayout.com/)
   * A quick tut for layout
 
@@ -26,7 +26,7 @@ A list of articles and tutorials that I share with my students.
 * [Kind of official docs, but not really](https://developer.mozilla.org/bm/docs/Web/JavaScript)
   * Mozilla's docs
 * [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
-  * Just when you started feeling confident with JS
+  * If you start feeling confident with JS
 * [Fun fun function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
   * Youtube channel, Javascript and laughing
 * [Javascript info](https://javascript.info/)
@@ -36,8 +36,7 @@ A list of articles and tutorials that I share with my students.
 * [Learn JS from terminal aka Nodeschool](https://nodeschool.io/)
   * Learn anything from terminal
 * [JS Lint](https://www.jslint.com/)
-  * Is your JS smelly?
-
+  * Check your JS
 
 ### Scss/Sass
 * [Docs](https://sass-lang.com/)
@@ -61,7 +60,7 @@ A list of articles and tutorials that I share with my students.
 
 ### README file
 * [Example](https://gist.github.com/tonkec/e0393f6f1aff07326ef4450874626778)
-  * Example of decent README.md file
+  * Example of a decent README.md file
 * [Syntax](https://daringfireball.net/projects/markdown/)
   * Syntax for a markdown language
 
@@ -97,7 +96,7 @@ A list of articles and tutorials that I share with my students.
 * [Wrapbootstrap](http://wrapbootstrap.com)
   * Templates made with Bootstrap
 * [Dribble](https://dribbble.com/)
-  * Share your design idea, get inspired with other's ideas
+  * Share your design idea, get inspired
 
 ### Testing interface
 * [Responsinator](https://www.responsinator.com/)
@@ -136,8 +135,8 @@ A list of articles and tutorials that I share with my students.
   * Review of several portfolios
 
 ### Community
-* [Contribute to projects at Build it with me](http://www.builditwithme.com/)
-  * Find a project that you can contribute to
+* [Find a coding buddy](https://codebuddies.org/)
+  * Find your coding buddy and projects you can contribute to
 * [Conquering Impostor Syndrome](https://davidwalsh.name/conquering-impostor-syndrome)
   * Stop feeling like an impostor
 
@@ -145,7 +144,7 @@ A list of articles and tutorials that I share with my students.
 * [Codepen](http://codepen.io/)
   * Show off your front-end skills, find inspiration, collaborate, demo or it didn't happen
 * [Jsfiddle](https://jsfiddle.net/)
-  * present your code or collaborate 
+  * Present your code or collaborate 
 
 ### Inspirational coders/bloggers
 * [Female coders](https://gist.github.com/tonkec/5d5b1782738e0130259d)
