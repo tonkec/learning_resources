@@ -1,6 +1,8 @@
 # A list of resources that will help you become a professional developer
 
-A list of articles and tutorials that I share with my students.
+## A list of articles and tutorials that I share with my students.
+
+#### If the list helped you, don't be shy, star this project and spread the word
 
 ### HTML Fundamentals
 * [Documentation](https://www.w3.org/TR/html52/)
@@ -103,5 +105,6 @@ A list of articles and tutorials that I share with my students.
   * A youtube channel with python guides and tuts
 * [Learn python the hard way](https://www.souravsengupta.com/cds2015/python/LPTHW.pdf)
   * Suffer while you learn
-
-###### If the list helped you, don't be shy, star this project and spread the word
+  
+### Do you want to know more?
+* [Check out EXTRA.md](https://github.com/tonkec/learning_resources/blob/master/EXTRA.md)
