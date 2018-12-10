@@ -61,10 +61,6 @@ https://github.com/hail2u/html-best-practices
   * Blogger, a great resource for how-to with front-end technologies
 * [Chris Coyier](https://chriscoyier.net/)
   * Creator of Codepen and CSS tricks
-* [Paul Irish](https://github.com/paulirish)
-  * He developed Modernizr and Yeoman 
-* [Linus Torvalds](https://github.com/torvalds)
-  * Creator of Linux and Git
 * [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
   * Why rush with learning to code?
 

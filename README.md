@@ -24,41 +24,44 @@ A list of articles and tutorials that I share with my students.
 * [Learn everything about flexbox](https://flexboxfroggy.com/)
   * Learn flexbox through interactive tutorial
 
-### User Centric Frontend Development
-  1.  Git
-    * [Cheat Sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
-      * The most common git commands 
-    * [How to write a good commit message](https://chris.beams.io/posts/git-commit/)
-      * Different approaches on how to describe your commits
-    * [Undo the last commit, keep changes](https://stackoverflow.com/questions/927358/how-do-i-undo-the-most-recent-commits-in-git)
-      * Edit that last commit message
+### User Centric Frontend Development 
+  1. Git
+      * [Cheat Sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
+          * The most common git commands 
+      * [How to write a good commit message](https://chris.beams.io/posts/git-commit/)
+          * Different approaches on how to describe your commits
+      * [Undo the last commit, keep changes](https://stackoverflow.com/questions/927358/how-do-i-undo-the-most-recent-commits-in-git)
+          * Edit that last commit message
 
   2.  UX/UI
-    * [Don't make me think](https://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758)
-      * How do users perceive your website
-    * [Color palettes](https://coolors.co/)
-      * Choose and generate your color palette
-    * [Wireframes with Balsamiq](https://balsamiq.com/)
-      * Create wireframes
+      * [Don't make me think](https://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758)
+          * How do users perceive your website
+      * [Color palettes](https://coolors.co/)
+          * Choose and generate your color palette
+      * [Wireframes with Balsamiq](https://balsamiq.com/)
+          * Create wireframes
 
   3. How to write a good README.md
-    * [Example of a README.md](https://gist.github.com/tonkec/e0393f6f1aff07326ef4450874626778)
-    * [Syntax for a markdown language](https://daringfireball.net/projects/markdown/)
+      * [Example of a README.md](https://gist.github.com/tonkec/e0393f6f1aff07326ef4450874626778)
+      * [Learn Markdown properly](https://commonmark.org/help/tutorial/index.html)
+      * [Syntax for a markdown language](https://daringfireball.net/projects/markdown/)
  
-### Milestone project
+### First Milestone project
   1. Testing interface
-    * [Responsinator](https://www.responsinator.com/)
-     * Check the responsiveness of your website
-    * [Browserstack](https://www.browserstack.com/)
-      * Check your website in different browsers and on different platforms
-    * [Can I use](https://caniuse.com/)
-      * Check the browser support for CSS properties
+      * [Responsinator](https://www.responsinator.com/)
+          * Check the responsiveness of your website
+      * [Browserstack](https://www.browserstack.com/)
+          * Check your website in different browsers and on different platforms
+      * [Can I use](https://caniuse.com/)
+          * Check the browser support for CSS properties
+
   2. Icons
-    * [Font awesome](https://fontawesome.com/)
-      * Free icons for your website
+      * [Font awesome](https://fontawesome.com/)
+          * Free icons for your website
+          
   3. Publish your first website
-    * [Github pages](https://pages.github.com/)
-      * Publish your static website
+      * [Github pages](https://pages.github.com/)
+          * Publish your static website
 
 ### JS fundamentals
 * [Kind of official docs, but not really](https://developer.mozilla.org/bm/docs/Web/JavaScript)
@@ -78,17 +81,18 @@ A list of articles and tutorials that I share with my students.
 
 ### Interactive Frontend Development
   1. Scss/Sass
-    * [Docs](https://sass-lang.com/)
-      * Official documentation
-    * [How to structure project with Scss](http://thesassway.com/beginner/how-to-structure-a-sass-project)
-      * Divide and organize your scss files
-    * [Advanced Scss](https://gist.github.com/jareware/4738651)
-      * Things you might have missed in the classroom
-    * [8 Tips to Help You Get the Best out of Sass](https://www.sitepoint.com/8-tips-help-get-best-sass/)
-      * Improve your sassing/scssing
+      * [Docs](https://sass-lang.com/)
+          * Official documentation
+      * [How to structure project with Scss](http://thesassway.com/beginner/how-to-structure-a-sass-project)
+          * Divide and organize your scss files
+      * [Advanced Scss](https://gist.github.com/jareware/4738651)
+          * Things you might have missed in the classroom
+      * [8 Tips to Help You Get the Best out of Sass](https://www.sitepoint.com/8-tips-help-get-best-sass/)
+          * Improve your sassing/scssing
+
   2. TDD
-    * [Jasmine](https://jasmine.github.io/)
-      * Test if your code is working properly
+      * [Jasmine](https://jasmine.github.io/)
+          * Test if your code is working properly
 
 ### Python Fundamentals 
 * [From zero to hero with python](https://medium.com/the-renaissance-developer/learning-python-from-zero-to-hero-8ceed48486d5)
@@ -100,4 +104,4 @@ A list of articles and tutorials that I share with my students.
 * [Learn python the hard way](https://www.souravsengupta.com/cds2015/python/LPTHW.pdf)
   * Suffer while you learn
 
-###### If the list helped you, don't be shy, start this project and spread the word
+###### If the list helped you, don't be shy, star this project and spread the word
