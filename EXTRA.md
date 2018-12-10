@@ -1,15 +1,23 @@
+# Do you want to know more? 
+
+Check out these articles/tutorials. Don't forget to have fun!
+
 ### HTML
  * [HTML5 doctor](http://html5doctor.com/)
  * [Interneting is hard](https://internetingishard.com/html-and-css/)
  * [Don't fear the internet](http://www.dontfeartheinternet.com/)
+ * [HTML best practices](https://github.com/hail2u/html-best-practices)
+ 
+### Haml
+ * [HTML abstraction markup language](http://haml.info/)
+   * Markup should be beautiful
 
 ### CSS
  * [Write the best CSS ever](https://learn.shayhowe.com/html-css/writing-your-best-code/)
-https://github.com/hail2u/html-best-practices
  * [BEM syntax](http://getbem.com/introduction/)
  * [SMACSS](https://smacss.com/)
 
-### ICONS 
+### Icons 
 * [Flat icons](https://www.flaticon.com/)
 
 ### UX/UI inspiration 
