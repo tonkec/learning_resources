@@ -1,4 +1,4 @@
-# Do you want to know more? 
+# Do you want to know more?
 
 Check out these articles/tutorials. Don't forget to have fun!
 
@@ -7,7 +7,7 @@ Check out these articles/tutorials. Don't forget to have fun!
  * [Interneting is hard](https://internetingishard.com/html-and-css/)
  * [Don't fear the internet](http://www.dontfeartheinternet.com/)
  * [HTML best practices](https://github.com/hail2u/html-best-practices)
- 
+
 ### Haml
  * [HTML abstraction markup language](http://haml.info/)
    * Markup should be beautiful
@@ -17,10 +17,10 @@ Check out these articles/tutorials. Don't forget to have fun!
  * [BEM syntax](http://getbem.com/introduction/)
  * [SMACSS](https://smacss.com/)
 
-### Icons 
+### Icons
 * [Flat icons](https://www.flaticon.com/)
 
-### UX/UI inspiration 
+### UX/UI inspiration
 * [Awwwards](https://www.awwwards.com/)
   * The best websites currently on the web
 * [Css design awards](https://www.cssdesignawards.com/)
@@ -39,6 +39,8 @@ Check out these articles/tutorials. Don't forget to have fun!
   * Bundle your files
 
 ### Practice makes perfect
+* [Exercism.io](https://exercism.io/)
+  * The bestestest! Learn and teach!
 * [Code wars](https://www.codewars.com/)
   * Practice to think like a programmer by solving real code challenges
 * [Coderbyte](https://coderbyte.com/)
@@ -60,7 +62,7 @@ Check out these articles/tutorials. Don't forget to have fun!
 * [Codepen](http://codepen.io/)
   * Show off your front-end skills, find inspiration, collaborate, demo or it didn't happen
 * [Jsfiddle](https://jsfiddle.net/)
-  * Present your code or collaborate 
+  * Present your code or collaborate
 
 ### Inspirational coders/bloggers
 * [Female coders](https://gist.github.com/tonkec/5d5b1782738e0130259d)

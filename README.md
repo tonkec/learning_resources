@@ -23,15 +23,19 @@
   * Check your CSS
 * [Learn layout](http://learnlayout.com/)
   * A quick tutorial for layout
-* [Learn everything about flexbox](https://flexboxfroggy.com/)
-  * Learn flexbox through interactive tutorial
+* [Learn everything about flexbox with Flexbox Froggy](https://flexboxfroggy.com/)
+  * Learn flexbox with interactive tutorial
+* [Learn grid with grid garden](http://cssgridgarden.com/)
+  * Learn CSS grid with interactive tutorial
 
-### User Centric Frontend Development 
+### User Centric Frontend Development
   1. Git
       * [Cheat Sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
-          * The most common git commands 
+          * The most common git commands
       * [How to write a good commit message](https://chris.beams.io/posts/git-commit/)
           * Different approaches on how to describe your commits
+      * [Use emoji in commit messages](https://gist.github.com/rxaviers/7360908)
+          * Have fun with emojis in commit messages :sunglasses:
       * [Undo the last commit, keep changes](https://stackoverflow.com/questions/927358/how-do-i-undo-the-most-recent-commits-in-git)
           * Edit that last commit message
 
@@ -47,7 +51,7 @@
       * [Example of a README.md](https://gist.github.com/tonkec/e0393f6f1aff07326ef4450874626778)
       * [Learn Markdown properly](https://commonmark.org/help/tutorial/index.html)
       * [Syntax for a markdown language](https://daringfireball.net/projects/markdown/)
- 
+
 ### First Milestone project
   1. Testing interface
       * [Responsinator](https://www.responsinator.com/)
@@ -60,7 +64,7 @@
   2. Icons
       * [Font awesome](https://fontawesome.com/)
           * Free icons for your website
-          
+
   3. Publish your first website
       * [Github pages](https://pages.github.com/)
           * Publish your static website
@@ -96,7 +100,7 @@
       * [Jasmine](https://jasmine.github.io/)
           * Test if your code is working properly
 
-### Python Fundamentals 
+### Python Fundamentals
 * [From zero to hero with python](https://medium.com/the-renaissance-developer/learning-python-from-zero-to-hero-8ceed48486d5)
   * Fundamental concepts
 * [Why you should learn python for your first programming language](why-you-should-learn-python-for-your-first-programming-language-da770a759e87)
@@ -105,6 +109,6 @@
   * A youtube channel with python guides and tuts
 * [Learn python the hard way](https://www.souravsengupta.com/cds2015/python/LPTHW.pdf)
   * Suffer while you learn
-  
+
 ### Do you want to know more?
 * [Check out EXTRA.md](https://github.com/tonkec/learning_resources/blob/master/EXTRA.md)
