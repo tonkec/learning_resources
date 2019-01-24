@@ -24,7 +24,7 @@ Check out these articles/tutorials. Don't forget to have fun!
 
 ### Icons
   * [Flat icons](https://www.flaticon.com/)
-    * Plenty of icons to chose from
+    * Plenty of icons to choose from
   * [IcoMoon](https://icomoon.io/)
     * Custom icons
 
