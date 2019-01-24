@@ -2,23 +2,31 @@
 
 Check out these articles/tutorials. Don't forget to have fun!
 
+### Complete and free web dev course
+* [The Odin project](https://www.theodinproject.com/)
+  * HTML&CSS, Ruby, Rails, JS, databases, career advice, community, support
+
 ### HTML
  * [HTML5 doctor](http://html5doctor.com/)
  * [Interneting is hard](https://internetingishard.com/html-and-css/)
- * [Don't fear the internet](http://www.dontfeartheinternet.com/)
  * [HTML best practices](https://github.com/hail2u/html-best-practices)
-
-### Haml
- * [HTML abstraction markup language](http://haml.info/)
-   * Markup should be beautiful
+ * [Don't fear the internet](http://www.dontfeartheinternet.com/)
+ * [Learn to code HTML & CSS](https://learn.shayhowe.com/)
 
 ### CSS
  * [Write the best CSS ever](https://learn.shayhowe.com/html-css/writing-your-best-code/)
  * [BEM syntax](http://getbem.com/introduction/)
  * [SMACSS](https://smacss.com/)
 
+### Haml
+  * [HTML abstraction markup language](http://haml.info/)
+    * Markup should be beautiful
+
 ### Icons
-* [Flat icons](https://www.flaticon.com/)
+  * [Flat icons](https://www.flaticon.com/)
+    * Plenty of icons to chose from
+  * [IcoMoon](https://icomoon.io/)
+    * Custom icons
 
 ### UX/UI inspiration
 * [Awwwards](https://www.awwwards.com/)
@@ -37,6 +45,11 @@ Check out these articles/tutorials. Don't forget to have fun!
   * Automate your workflow, minify, optimize, uglify your code automatically
 * [Webpack](https://webpack.js.org/)
   * Bundle your files
+
+### Package managers
+ * [npm](https://www.npmjs.com)
+ * [yarn](https://yarnpkg.com/en/)
+ * [Bower is dead](https://snyk.io/blog/bower-is-dead/)
 
 ### Practice makes perfect
 * [Exercism.io](https://exercism.io/)
