@@ -3,8 +3,18 @@
 Check out these articles/tutorials. Don't forget to have fun!
 
 ### Complete and free web dev course
+* [Codecademy](https://www.codecademy.com/)
+  * Learn with interactive tuts, community, support
+* [SoloLearn](https://www.sololearn.com/)
+  * Interactive tuts
 * [The Odin project](https://www.theodinproject.com/)
   * HTML&CSS, Ruby, Rails, JS, databases, career advice, community, support
+* [Free Code Camp](https://www.freecodecamp.org/)
+  * Plenty of interactive tutorials, mostly front-end, community, podcasts
+* [Hackr.io](https://hackr.io/)
+  * All languages, support, community
+* [Path to a free self-taught education in Computer Science](https://github.com/ossu/computer-science)
+  * Open Source Society University
 
 ### HTML
  * [HTML5 doctor](http://html5doctor.com/)
@@ -100,3 +110,6 @@ Check out these articles/tutorials. Don't forget to have fun!
   * A guide that will help you properly copy and paste any answer
 * [While loop](https://img.devrant.com/devrant/rant/r_336375_CA5gj.jpg)
 * [If/else statements](https://i.pinimg.com/originals/4f/80/db/4f80dbdfddc683e839b196f5b3ead5ad.jpg)
+
+### Do you want even more?
+ * [Awesome!](https://github.com/sindresorhus/awesome)
