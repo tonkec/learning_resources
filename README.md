@@ -78,6 +78,9 @@
   3. Publish your first website
       * [Github pages](https://pages.github.com/)
           * Publish your static website
+  
+  4. [Checklist](https://github.com/Migacz85/checklist-data-centric/blob/master/4-project-criteria.md)
+      * Criteria for assessment. Skip the parts that are out of scope of the project. Use this for EVERY project 
 
 ### JS fundamentals
 * [Kind of official docs, but not really](https://developer.mozilla.org/bm/docs/Web/JavaScript)
