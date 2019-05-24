@@ -28,7 +28,7 @@
 
 ### User Centric Frontend Development
   1. Git
-      * [Cheat Sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
+      * [Learn Git more in detail](https://try.github.io/)
           * The most common git commands
       * [How to write a good commit message](https://chris.beams.io/posts/git-commit/)
           * Different approaches on how to describe your commits
