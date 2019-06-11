@@ -1,6 +1,5 @@
 # A list of resources that will help you become a professional developer
-
-## A list of articles and tutorials that I share with my students.
+A list of articles and tutorials that I share with my students.
 
 ### HTML Fundamentals
 * [Documentation](https://www.w3.org/TR/html52/)
@@ -59,9 +58,9 @@
 
 ### First Milestone project
   1. Create Wireframes with some of these tools
-    * [Balsamiq](https://balsamiq.com/)
-    * [Mockflow](https://mockflow.com/)
-    * [Marvelapp](https://marvelapp.com/)
+      * [Balsamiq](https://balsamiq.com/)
+      * [Mockflow](https://mockflow.com/)
+      * [Marvelapp](https://marvelapp.com/)
 
   2. Make your website look modern
       * [Several examples of modern design](https://gist.github.com/tonkec/66556edd4c4cbf9432903071c1526392)
