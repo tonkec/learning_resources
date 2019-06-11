@@ -26,13 +26,8 @@
 * [Learn grid with grid garden](http://cssgridgarden.com/)
   * Learn CSS grid with interactive tutorial
 
-### User Centric Frontend Development
-  1. Create Wireframes with some of these tools
-      * [Balsamiq](https://balsamiq.com/)
-      * [Mockflow](https://mockflow.com/)
-      * [Marvelapp](https://marvelapp.com/)
-      
-  2. Git
+### User Centric Frontend Development      
+  1. Git
       * [Learn Git more in detail](https://try.github.io/)
           * The most common git commands
       * [How to write a good commit message](https://chris.beams.io/posts/git-commit/)
@@ -42,14 +37,14 @@
       * [Undo the last commit, keep changes](https://stackoverflow.com/questions/927358/how-do-i-undo-the-most-recent-commits-in-git)
           * Edit that last commit message
 
-  3. Bootstrap 3
+  2. Bootstrap 3
      * [Study the grid](https://getbootstrap.com/docs/3.3/css/#grid)
           * .container > .row > .col-*
      * [Example of grid](https://getbootstrap.com/docs/3.3/examples/grid)  
           * Study the code in this example, use inspector
      * [Explore Bootstrap 4](https://getbootstrap.com/)
 
-  4.  UX/UI
+  3.  UX/UI
       * [Don't make me think](https://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758)
           * How do users perceive your website
       * [Color palettes](https://coolors.co/)
@@ -57,18 +52,23 @@
       * [Wireframes with Balsamiq](https://balsamiq.com/)
           * Create wireframes
 
-  5. How to write a good README.md
+  4. How to write a good README.md
       * [Example of a README.md](https://gist.github.com/tonkec/e0393f6f1aff07326ef4450874626778)
       * [Learn Markdown properly](https://commonmark.org/help/tutorial/index.html)
       * [Syntax for a markdown language](https://daringfireball.net/projects/markdown/)
 
 ### First Milestone project
-  1. Make your website look modern
+  1. Create Wireframes with some of these tools
+    * [Balsamiq](https://balsamiq.com/)
+    * [Mockflow](https://mockflow.com/)
+    * [Marvelapp](https://marvelapp.com/)
+
+  2. Make your website look modern
       * [Several examples of modern design](https://gist.github.com/tonkec/66556edd4c4cbf9432903071c1526392)
         * spacing between elements, typography, lines, shapes
       * [Several examples of horrible design](https://gist.github.com/tonkec/b0f2a48ba15b0d7f951b1c7c57ad711b)
 
-  2. Testing interface
+  3. Testing interface
       * [Responsinator](https://www.responsinator.com/)
           * Check the responsiveness of your website
       * [Browserstack](https://www.browserstack.com/)
@@ -76,16 +76,23 @@
       * [Can I use](https://caniuse.com/)
           * Check the browser support for CSS properties
 
-  2. Icons
+  4. Icons
       * [Font awesome](https://fontawesome.com/)
           * Free icons for your website
 
-  3. Publish your first website
+  5. Validate your code
+      * [HTML validator](https://validator.w3.org/)
+          * Validate your HTML
+
+      * [CSS lint](http://csslint.net/)
+          * Check your CSS
+
+  6. Publish your first website
       * [Github pages](https://pages.github.com/)
           * Publish your static website
-  
-  4. [Checklist](https://github.com/Migacz85/checklist-data-centric/blob/master/4-project-criteria.md)
-      * Criteria for assessment. Skip the parts that are out of scope of the project. Use this for EVERY project 
+
+  7. [Checklist](https://github.com/Migacz85/checklist-data-centric/blob/master/4-project-criteria.md)
+      * Criteria for assessment. Skip the parts that are out of scope of the project. Use this for EVERY project
 
 ### JS fundamentals
 * [Kind of official docs, but not really](https://developer.mozilla.org/bm/docs/Web/JavaScript)
