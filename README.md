@@ -27,7 +27,12 @@
   * Learn CSS grid with interactive tutorial
 
 ### User Centric Frontend Development
-  1. Git
+  1. Create Wireframes with some of these tools
+      * [Balsamiq](https://balsamiq.com/)
+      * [Mockflow](https://mockflow.com/)
+      * [Marvelapp](https://marvelapp.com/)
+      
+  2. Git
       * [Learn Git more in detail](https://try.github.io/)
           * The most common git commands
       * [How to write a good commit message](https://chris.beams.io/posts/git-commit/)
@@ -37,14 +42,14 @@
       * [Undo the last commit, keep changes](https://stackoverflow.com/questions/927358/how-do-i-undo-the-most-recent-commits-in-git)
           * Edit that last commit message
 
-  2. Bootstrap 3
+  3. Bootstrap 3
      * [Study the grid](https://getbootstrap.com/docs/3.3/css/#grid)
           * .container > .row > .col-*
      * [Example of grid](https://getbootstrap.com/docs/3.3/examples/grid)  
           * Study the code in this example, use inspector
      * [Explore Bootstrap 4](https://getbootstrap.com/)
 
-  3.  UX/UI
+  4.  UX/UI
       * [Don't make me think](https://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758)
           * How do users perceive your website
       * [Color palettes](https://coolors.co/)
@@ -52,7 +57,7 @@
       * [Wireframes with Balsamiq](https://balsamiq.com/)
           * Create wireframes
 
-  4. How to write a good README.md
+  5. How to write a good README.md
       * [Example of a README.md](https://gist.github.com/tonkec/e0393f6f1aff07326ef4450874626778)
       * [Learn Markdown properly](https://commonmark.org/help/tutorial/index.html)
       * [Syntax for a markdown language](https://daringfireball.net/projects/markdown/)
